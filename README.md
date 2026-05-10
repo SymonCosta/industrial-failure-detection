@@ -42,6 +42,8 @@ Este projeto demonstra como Inteligência Artificial pode ser aplicada para:
 
 ## Arquitetura do Projeto
 
+![Arquitetura](assets/architecture-diagram.png)
+
 ```text
 Dados de Telemetria
         ↓
