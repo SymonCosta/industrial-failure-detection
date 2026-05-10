@@ -1,4 +1,8 @@
 # Detecção de Falhas Industriais com Machine Learning
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
 ## Visão Geral
 
@@ -127,6 +131,14 @@ ALERTA: Equipamento crítico!
 - Integração com visão computacional
 
 ---
+
+## Métricas do Modelo
+
+           1       1.00      1.00      1.00        85
+
+    accuracy                           1.00       200
+   macro avg       1.00      1.00      1.00       200
+weighted avg       1.00      1.00      1.00       200
 
 ## Autor
 
