@@ -264,10 +264,13 @@ streamlit run dashboard.py
 - Pipeline de dados em tempo real
 
 ---
+## Demonstração do Dashboard
+
+![Dashboard Demo](assets/dashboard-demo.gif)
 
 ## Autor
 
-### Symon Costa
+### Symon Costta
 
 Analytics | IA Aplicada | Engenharia de Dados | AWS | Python | SQL
 
